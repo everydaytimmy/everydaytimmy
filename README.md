@@ -24,12 +24,40 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everydaytimmy&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/everydaytimmy/github-readme-stats)
 
+
+  - ### 🌟 **Professional Competencies**
+    - Adaptability:
+      - Can manage ambiguous situations and solve problems with agility
+      - Can see beyond the responsibility of my role in an organization
+      - Have built a successful career in other roles/indutries
+     
+    - Always curious:
+      - Always eager to learn new things 
+      - Constrantly stiving for challenging work that allow me to grow
+
+
+    - Leadership & Collaboration:
+      - Effectively communicate within and across teams
+      - Uplift those around me to create a good work environment
+      - Work tenaciously to deliver on commitments
+      - Hold myself and others accountable
+
+---------------------
+
+<h3>😄 Fun Facts</h3>
+
+  - Forer Infantry Paratrooper in the 82nd Airborne Division
+  - Amatuer Muay Thai figther (only one actual ring fight but it was a W)
+  - Love snowboarding and spend a month in Park City, Utah each year
+  - Traveled to 20 countries
+  
+
+
 <a href="https://github.com/everydaytimmy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=everydaytimmy&show_icons=true&theme=midnight-purple" />
 </a>
 
 
----------------------
 
 
 
@@ -45,6 +73,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
